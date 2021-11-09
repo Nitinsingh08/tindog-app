@@ -1,2 +1,1 @@
-# tindog-app
-product tour
+TinDog Starting Files

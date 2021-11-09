@@ -1,0 +1,189 @@
+.body {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+/* NAVBAR */
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: 550;
+    font-family: 'Ubuntu';
+    text-transform: lowercase;
+}
+
+.nav-link {
+    margin: 0 16px;
+    font-size: large;
+    font-family: 'Montserrat';
+}
+
+
+/* TITLE */
+
+.col-lg-6 {
+    padding-top: 35px;
+    line-height: 5;
+}
+
+.download-button {
+    margin-right: 3%;
+}
+
+
+/* TITLE image */
+
+.phone {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.heading {
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 1000;
+    color: white;
+}
+
+
+/* FEATURES */
+
+.icon {
+    font-size: 50px;
+    color: #ef8172;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#features {
+    padding: 100px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.feat-header {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+.feat-para {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    padding: 0 5%;
+}
+
+.col-lg-4 {
+    padding: 0 3%;
+}
+
+
+/* TESTIMONIALS */
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    line-height: 1.5;
+    font-size: 3rem;
+    font-weight: 750;
+}
+
+
+/* PRESS */
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.testimonials-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    height: 500px;
+    padding: 7% 15%;
+}
+
+
+/* PRICING */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-coloumn {
+    padding: 3% 2%;
+}
+
+
+/* CALL TO ACTION */
+
+#cta {
+    background-color: #ff4c68;
+    font-family: 'Montserrat';
+    height: 500px;
+    padding: 8%;
+    text-align: center;
+}
+
+.heading {
+    padding: 0 6%;
+}
+
+.cta-button {
+    margin: 40px 15px 0;
+}
+
+
+/* FOOTER */
+
+#footer {
+    background-repeat: #fff;
+    height: 240px;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.foot {
+    margin: 90px 10px 0;
+}
+
+.last {
+    margin-top: 23px;
+    font-weight: 1000px;
+}
